@@ -1,0 +1,76 @@
+body {
+  background-color: #181818;
+}
+h2 {
+   font-size: 70px;
+   color: #FF7F7F;
+   background-color: #404040;
+   border-color: skyblue;
+   border-width: medium;
+   border-style: solid;
+   padding: 20px;
+}
+
+p {
+  color: thistle;
+  background-color: #404040;
+  border-color: skyblue;
+  border-width: medium;
+  border-style: solid;
+  padding: 20px;
+}
+h3{
+  background-color: #404040;
+  border-color: skyblue;
+  border-width: medium;
+  border-style: solid;
+  padding: 20px;
+}
+
+h4{
+  color: #FF7F7F;
+  background-color: #404040;
+  border-color: skyblue;
+  border-width: medium;
+  border-style: solid;
+  padding: 20px;
+}
+footer{
+  text-align: center;
+  padding: 0px 100px;
+  width: 1000px;
+  margin: auto;
+}
+
+header{
+  text-align: center;
+  padding: 0px 100px;
+  width: 600px;
+  margin: auto;
+
+}
+main{
+  text-align: center;
+  padding: 0px 100px;
+  margin: -50px auto auto auto;
+  width: 1000px;
+
+}
+
+img{
+  background-color: #404040;
+  border-color: skyblue;
+  border-width: medium;
+  border-style: solid;
+}
+
+.columns {
+  width: 1000px;
+  display: flex;
+}
+.column{
+  margin: auto 50px auto auto;
+}
+.idealjob{
+  padding-left: 270px;
+}
